@@ -1,1 +1,1 @@
-# MCAD
+MCAD operates by detecting and mitigating cyberattacks on healthcare networks using machine learning models. It collects normal and abnormal traffic data and then processes it through the backend algorithms, including K-Nearest Neighbors (KNN), Decision Trees, Random Forest, and Logistic Regression. These algorithms classify the incoming data to detect potential threats in real-time, ensuring that any cyberattacks can be identified and mitigated swiftly.
