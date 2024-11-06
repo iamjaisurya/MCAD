@@ -1,0 +1,66 @@
+POX, Ryu, ONOS and OpenDaylight. These are 4 SDN controllers and we are using Ryu in our project it's specially designed for the agility of the network and for managing the higher traffic rate.
+Some advantages of the Ryu controller include:
+It's written in Python
+It provides well-defined software components and APIs
+It supports event-driven programming
+It supports multiple southbound protocols, including:
+OpenFlow
+Network Configuration Protocol (NETCONF)
+OpenFlow Management and Configuration Protocol (OF-Config)
+It's designed for network agility and managing higher traffic rates
+                             The Ryu controller supports the following NBI APIs:
+Restful
+REST
+REST/RPC user-defined API
+
+
+
+
+
+
+Electronic health records (EHRs) replace paper versions of patient medical histories. EHRs include more health data, test results, and treatments. They can also share data with other EHRs.
+Wearable devices can monitor and record real-time information about a person's physiological condition and motion activities. These devices can include:
+Heart rate monitors
+Bluetooth asthma inhalers
+Flexible sensors that can be integrated into textile fiber, clothes, and elastic bands
+
+
+
+
+
+
+
+
+
+
+Fog computing is a decentralized computing structure that sits between the cloud and devices that produce data. It's also known as fog networking or fogging.
+
+                  Fog computing:
+Enables users to place resources in logical locations to enhance performance
+Brings the advantages and power of the cloud closer to where data is created and acted upon
+Reduces the reliance on the cloud for resource-intensive tasks, improving performance and reducing latency
+Facilitates the operation of computing, storage, and networking services between end devices and computing data centers
+Offers more computing power than edge computing and does so faster than cloud computing
+Is utilized when only a small amount of data has to be sent to the cloud
+Can provide security for IoT devices by performing cryptographic computations
+                Fog computing is used when:
+Only a small amount of data has to be sent to the cloud
+A large number of services must be delivered over a broad region and at various places
+
+
+
+
+
+
+What is a Layer 3 switch used for?
+Layer 3 switches make the use of virtual local area networks (VLANs) and interVLAN routing easier and faster.
+    LAN switching is a type of packet switching that uses hardware to transfer data packets between computers in a network
+
+
+
+
+
+
+
+
+Data shuffling is a process that randomly redistributes data across different partitions to enable parallel processing and better performance. It's a common task that's usually performed before model training to create more representative training and testing sets.
